@@ -10,51 +10,13 @@
 
 6. Nhấn "Lưu" sau khi nhập hoàn tất.
 
-
-
 \* Mục giới thiệu về cửa hàng![](/assets/intro.png)1. Tại trang thông tin cửa hàng chọn "Giới thiệu", tại đây chủ cửa hàng có thể nhập giới thiệu về cửa hàng.
-
-
 
 \* Mục chính sách cửa hàng![](/assets/policy.png)1. Tại trang thông tin cửa hàng chọn "Chính sách", tại đây chủ cửa hàng có thể giới thiệu về chính sách của cửa hàng.
 
-
-
 \* Mục liên hệ cửa hàng![](/assets/contact.png)1. Tại trang thông tin cửa hàng chọn "Liên hệ", tại đây chủ cửa hàng có thể thêm các thông tin liên hệ của cửa hàng.
 
-2. Chủ cửa hàng có thể đánh dấu vị trí của cửa hàng trên bản đồ.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+1. Chủ cửa hàng có thể đánh dấu vị trí của cửa hàng trên bản đồ.
 
 
 
